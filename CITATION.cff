@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use or build upon this repository, cite this repository metadata."
+type: software
+title: "Local AI Lab"
+abstract: "Planned research and engineering repository; no completed implementation or research results are claimed."
+authors:
+  - given-names: "Mohd Rizam"
+    family-names: "Bakar"
+repository-code: "https://github.com/MarkRizam/local-ai-lab"
+url: "https://github.com/MarkRizam/local-ai-lab"
+license: MIT
+keywords:
+  - "local-ai"
+  - "planned"
